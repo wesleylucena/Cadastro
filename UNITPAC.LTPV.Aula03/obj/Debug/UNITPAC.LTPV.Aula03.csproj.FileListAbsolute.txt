@@ -1,0 +1,69 @@
+C:\Users\allis\source\repos\UNITPAC.LTPV\UNITPAC.LTPV.Aula03\bin\Debug\UNITPAC.LTPV.Aula03.exe.config
+C:\Users\allis\source\repos\UNITPAC.LTPV\UNITPAC.LTPV.Aula03\bin\Debug\UNITPAC.LTPV.Aula03.exe
+C:\Users\allis\source\repos\UNITPAC.LTPV\UNITPAC.LTPV.Aula03\bin\Debug\UNITPAC.LTPV.Aula03.pdb
+C:\Users\allis\source\repos\UNITPAC.LTPV\UNITPAC.LTPV.Aula03\obj\Debug\UNITPAC.LTPV.Aula03.csprojAssemblyReference.cache
+C:\Users\allis\source\repos\UNITPAC.LTPV\UNITPAC.LTPV.Aula03\obj\Debug\UNITPAC.LTPV.Aula03.Properties.Resources.resources
+C:\Users\allis\source\repos\UNITPAC.LTPV\UNITPAC.LTPV.Aula03\obj\Debug\UNITPAC.LTPV.Aula03.csproj.GenerateResource.cache
+C:\Users\allis\source\repos\UNITPAC.LTPV\UNITPAC.LTPV.Aula03\obj\Debug\UNITPAC.LTPV.Aula03.csproj.CoreCompileInputs.cache
+C:\Users\allis\source\repos\UNITPAC.LTPV\UNITPAC.LTPV.Aula03\obj\Debug\UNITPAC.LTPV.Aula03.exe
+C:\Users\allis\source\repos\UNITPAC.LTPV\UNITPAC.LTPV.Aula03\obj\Debug\UNITPAC.LTPV.Aula03.pdb
+C:\Users\allis\source\repos\UNITPAC.LTPV\UNITPAC.LTPV.Aula03\obj\Debug\UNITPAC.LTPV.Aula03.FrmPrincipal.resources
+C:\Users\allis\source\repos\UNITPAC.LTPV\UNITPAC.LTPV.Aula03\obj\Debug\UNITPAC.LTPV.Aula03.FrmNovo.resources
+C:\Users\allis\source\repos\UNITPAC.LTPV\UNITPAC.LTPV.Aula03\obj\Debug\UNITPAC.LTPV.Aula03.Agiotas.resources
+C:\Users\allis\source\repos\UNITPAC.LTPV\UNITPAC.LTPV.Aula03\obj\Debug\UNITPAC.LTPV.Aula03.BB.resources
+C:\Users\allis\source\repos\UNITPAC.LTPV\UNITPAC.LTPV.Aula03\obj\Debug\UNITPAC.LTPV.Aula03.Caixa.resources
+C:\Users\allis\source\repos\UNITPAC.LTPV\UNITPAC.LTPV.Aula03\obj\Debug\UNITPAC.LTPV.Aula03.Nubank.resources
+C:\Users\allis\source\repos\UNITPAC.LTPV\UNITPAC.LTPV.Aula03\obj\Debug\UNITPAC.LTPV.Aula03.FrmCadastroAluno.resources
+C:\Users\allis\source\repos\UNITPAC.LTPV\UNITPAC.LTPV.Aula03\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\allis\source\repos\UNITPAC.LTPV\UNITPAC.LTPV.Aula03\bin\Debug\SimpleInjector.dll
+C:\Users\allis\source\repos\UNITPAC.LTPV\UNITPAC.LTPV.Aula03\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\allis\source\repos\UNITPAC.LTPV\UNITPAC.LTPV.Aula03\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\allis\source\repos\UNITPAC.LTPV\UNITPAC.LTPV.Aula03\bin\Debug\UNITPAC.LTPV.Data.dll
+C:\Users\allis\source\repos\UNITPAC.LTPV\UNITPAC.LTPV.Aula03\bin\Debug\UNITPAC.LTPV.Dominio.dll
+C:\Users\allis\source\repos\UNITPAC.LTPV\UNITPAC.LTPV.Aula03\bin\Debug\UNITPAC.LTPV.Data.pdb
+C:\Users\allis\source\repos\UNITPAC.LTPV\UNITPAC.LTPV.Aula03\bin\Debug\UNITPAC.LTPV.Dominio.pdb
+C:\Users\allis\source\repos\UNITPAC.LTPV\UNITPAC.LTPV.Aula03\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\allis\source\repos\UNITPAC.LTPV\UNITPAC.LTPV.Aula03\bin\Debug\SimpleInjector.xml
+C:\Users\allis\source\repos\UNITPAC.LTPV\UNITPAC.LTPV.Aula03\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\allis\source\repos\UNITPAC.LTPV\UNITPAC.LTPV.Aula03\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\allis\source\repos\UNITPAC.LTPV\UNITPAC.LTPV.Aula03\obj\Debug\UNITPAC.LTPV.Aula03.csproj.CopyComplete
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aula03\bin\Debug\UNITPAC.LTPV.Aula03.exe.config
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aula03\bin\Debug\UNITPAC.LTPV.Aula03.exe
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aula03\bin\Debug\UNITPAC.LTPV.Aula03.pdb
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aula03\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aula03\bin\Debug\SimpleInjector.dll
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aula03\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aula03\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aula03\bin\Debug\UNITPAC.LTPV.Data.dll
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aula03\bin\Debug\UNITPAC.LTPV.Dominio.dll
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aula03\bin\Debug\EntityFramework.dll
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aula03\bin\Debug\UNITPAC.LTPV.Data.pdb
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aula03\bin\Debug\UNITPAC.LTPV.Data.dll.config
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aula03\bin\Debug\UNITPAC.LTPV.Dominio.pdb
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aula03\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aula03\bin\Debug\SimpleInjector.xml
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aula03\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aula03\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aula03\bin\Debug\EntityFramework.xml
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aula03\obj\Debug\UNITPAC.LTPV.Aula03.csprojAssemblyReference.cache
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aula03\obj\Debug\UNITPAC.LTPV.Aula03.Agiotas.resources
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aula03\obj\Debug\UNITPAC.LTPV.Aula03.BB.resources
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aula03\obj\Debug\UNITPAC.LTPV.Aula03.Caixa.resources
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aula03\obj\Debug\UNITPAC.LTPV.Aula03.FrmCadastroAluno.resources
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aula03\obj\Debug\UNITPAC.LTPV.Aula03.FrmNovo.resources
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aula03\obj\Debug\UNITPAC.LTPV.Aula03.FrmPrincipal.resources
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aula03\obj\Debug\UNITPAC.LTPV.Aula03.Nubank.resources
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aula03\obj\Debug\UNITPAC.LTPV.Aula03.Properties.Resources.resources
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aula03\obj\Debug\UNITPAC.LTPV.Aula03.csproj.GenerateResource.cache
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aula03\obj\Debug\UNITPAC.LTPV.Aula03.csproj.CoreCompileInputs.cache
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aula03\obj\Debug\UNITPAC.LTPV.Aula03.csproj.CopyComplete
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aula03\obj\Debug\UNITPAC.LTPV.Aula03.exe
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aula03\obj\Debug\UNITPAC.LTPV.Aula03.pdb
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aula03\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aula03\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aula03\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aula03\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aula03\bin\Debug\UNITPAC.LTPV.Aplicacao.dll
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aula03\bin\Debug\FluentValidation.dll
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aula03\bin\Debug\UNITPAC.LTPV.Aplicacao.pdb
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aula03\bin\Debug\FluentValidation.xml

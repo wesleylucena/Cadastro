@@ -1,0 +1,12 @@
+C:\Users\allis\source\repos\UNITPAC.LTPV\UNITPAC.LTPV.Dominio\bin\Debug\UNITPAC.LTPV.Dominio.dll
+C:\Users\allis\source\repos\UNITPAC.LTPV\UNITPAC.LTPV.Dominio\bin\Debug\UNITPAC.LTPV.Dominio.pdb
+C:\Users\allis\source\repos\UNITPAC.LTPV\UNITPAC.LTPV.Dominio\obj\Debug\UNITPAC.LTPV.Dominio.csprojAssemblyReference.cache
+C:\Users\allis\source\repos\UNITPAC.LTPV\UNITPAC.LTPV.Dominio\obj\Debug\UNITPAC.LTPV.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\allis\source\repos\UNITPAC.LTPV\UNITPAC.LTPV.Dominio\obj\Debug\UNITPAC.LTPV.Dominio.dll
+C:\Users\allis\source\repos\UNITPAC.LTPV\UNITPAC.LTPV.Dominio\obj\Debug\UNITPAC.LTPV.Dominio.pdb
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Dominio\bin\Debug\UNITPAC.LTPV.Dominio.dll
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Dominio\bin\Debug\UNITPAC.LTPV.Dominio.pdb
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Dominio\obj\Debug\UNITPAC.LTPV.Dominio.csprojAssemblyReference.cache
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Dominio\obj\Debug\UNITPAC.LTPV.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Dominio\obj\Debug\UNITPAC.LTPV.Dominio.dll
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Dominio\obj\Debug\UNITPAC.LTPV.Dominio.pdb

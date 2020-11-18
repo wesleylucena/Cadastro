@@ -1,0 +1,16 @@
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aplicacao\bin\Debug\UNITPAC.LTPV.Aplicacao.dll
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aplicacao\bin\Debug\UNITPAC.LTPV.Aplicacao.pdb
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aplicacao\bin\Debug\FluentValidation.dll
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aplicacao\bin\Debug\UNITPAC.LTPV.Data.dll
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aplicacao\bin\Debug\UNITPAC.LTPV.Dominio.dll
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aplicacao\bin\Debug\EntityFramework.dll
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aplicacao\bin\Debug\UNITPAC.LTPV.Data.pdb
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aplicacao\bin\Debug\UNITPAC.LTPV.Data.dll.config
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aplicacao\bin\Debug\UNITPAC.LTPV.Dominio.pdb
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aplicacao\bin\Debug\FluentValidation.xml
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aplicacao\bin\Debug\EntityFramework.xml
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aplicacao\obj\Debug\UNITPAC.LTPV.Aplicacao.csprojAssemblyReference.cache
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aplicacao\obj\Debug\UNITPAC.LTPV.Aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aplicacao\obj\Debug\UNITPAC.LTPV.Aplicacao.csproj.CopyComplete
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aplicacao\obj\Debug\UNITPAC.LTPV.Aplicacao.dll
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Aplicacao\obj\Debug\UNITPAC.LTPV.Aplicacao.pdb

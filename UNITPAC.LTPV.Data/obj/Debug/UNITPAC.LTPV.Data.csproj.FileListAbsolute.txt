@@ -1,0 +1,27 @@
+C:\Users\allis\source\repos\UNITPAC.LTPV\UNITPAC.LTPV.Data\bin\Debug\UNITPAC.LTPV.Data.dll
+C:\Users\allis\source\repos\UNITPAC.LTPV\UNITPAC.LTPV.Data\bin\Debug\UNITPAC.LTPV.Data.pdb
+C:\Users\allis\source\repos\UNITPAC.LTPV\UNITPAC.LTPV.Data\bin\Debug\UNITPAC.LTPV.Dominio.dll
+C:\Users\allis\source\repos\UNITPAC.LTPV\UNITPAC.LTPV.Data\bin\Debug\UNITPAC.LTPV.Dominio.pdb
+C:\Users\allis\source\repos\UNITPAC.LTPV\UNITPAC.LTPV.Data\obj\Debug\UNITPAC.LTPV.Data.csprojAssemblyReference.cache
+C:\Users\allis\source\repos\UNITPAC.LTPV\UNITPAC.LTPV.Data\obj\Debug\UNITPAC.LTPV.Data.csproj.CoreCompileInputs.cache
+C:\Users\allis\source\repos\UNITPAC.LTPV\UNITPAC.LTPV.Data\obj\Debug\UNITPAC.LTPV.Data.csproj.CopyComplete
+C:\Users\allis\source\repos\UNITPAC.LTPV\UNITPAC.LTPV.Data\obj\Debug\UNITPAC.LTPV.Data.dll
+C:\Users\allis\source\repos\UNITPAC.LTPV\UNITPAC.LTPV.Data\obj\Debug\UNITPAC.LTPV.Data.pdb
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Data\bin\Debug\UNITPAC.LTPV.Data.dll.config
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Data\bin\Debug\UNITPAC.LTPV.Data.dll
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Data\bin\Debug\UNITPAC.LTPV.Data.pdb
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Data\bin\Debug\EntityFramework.dll
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Data\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Data\bin\Debug\UNITPAC.LTPV.Dominio.dll
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Data\bin\Debug\UNITPAC.LTPV.Dominio.pdb
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Data\bin\Debug\EntityFramework.xml
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Data\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Data\obj\Debug\UNITPAC.LTPV.Data.csprojAssemblyReference.cache
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Data\obj\Debug\UNITPAC.LTPV.Data.csproj.CoreCompileInputs.cache
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Data\obj\Debug\UNITPAC.LTPV.Data.csproj.CopyComplete
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Data\obj\Debug\UNITPAC.LTPV.Data.dll
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Data\obj\Debug\UNITPAC.LTPV.Data.pdb
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Data\obj\Debug\UNITPAC.LTPV.Data.Migrations.inicial.resources
+C:\Users\Wêsley Lucena\Desktop\Projeto-LTP5-main\UNITPAC.LTPV.Data\obj\Debug\UNITPAC.LTPV.Data.csproj.GenerateResource.cache
